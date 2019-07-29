@@ -2,4 +2,6 @@
 Code for CiberRato-Competition:
 Language: Python
 
-Objective: find a beacon in a maze. Code in python and contains multiple algorithms to robot execute.
+Objective: find a beacon in a maze.
+
+Algorithm: Multiple search algorithms which commands the robot.
